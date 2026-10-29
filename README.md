@@ -158,3 +158,24 @@ In VS Code, we can click on the four options:
 You must delete the `<<<<<<<`, `=======`, and `>>>>>>>` lines before saving.
 
 ![merge conflicts](./images/conflict.png)
+
+## NTU 4.3 : My Reflection on Github
+
+## NTU Module 4.3 — GitHub and DevOps Reflection
+
+**Git Fetch vs Git Pull**
+
+`git fetch` downloads updates from the remote GitHub repository without merging them into the current branch, while `git pull` downloads and integrates those changes into the current branch.
+
+**Importance of Branching**
+
+Branching is important in DevOps because it allows developers to work on new features or bug fixes independently without affecting the stable `main` branch.
+
+**Pull Requests and Collaboration**
+
+Pull requests support collaboration and code quality by allowing team members to review proposed changes and run automated tests before merging them into `main`.
+
+**Practical Learning Experience**
+
+During this practical, I created a feature branch, added a student profile, pushed my changes to GitHub, and successfully merged a pull request after the GitHub Actions JSON validation checks passed.
+

@@ -24,6 +24,6 @@
   {
     "name": "Coder Uncle",
     "cohort": 1,
-    "photo": "/images/coder.jpg"
+   "photo": "./images/coder.jpg"
   }  
 ]
